@@ -1,2 +1,2 @@
 # FirstMy
-Test
+Test the Git setup
